@@ -1,6 +1,6 @@
 # Projeto `Algorithms`!
 
-  O projeto teve o objetivo de resolver problemas e otimizar algoritmos de problemas do dia a dia!
+  O projeto teve o objetivo otimizar algoritmos e implementar soluções de problemas do dia a dia.
   
 # 🚵 Habilidades trabalhadas:
 
