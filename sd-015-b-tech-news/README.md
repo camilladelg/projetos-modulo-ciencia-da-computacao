@@ -3,7 +3,7 @@
  O projeto teve como principal objetivo fazer consultas em notícias sobre tecnologia.
 
   As notícias foram obtidas através da raspagem do [_blog da Trybe_](https://blog.betrybe.com).
-# 🚵 Habilidades a serem trabalhadas:
+# 🚵 Habilidades trabalhadas:
 
   <ul>
     <li>Utilizar o terminal interativo do Python</li>
