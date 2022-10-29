@@ -2,7 +2,6 @@
 
 # Habilidades trabalhadas:</strong></summary><br />
 
- <details>
   <ul>
     <li>Utilizar o terminal interativo do Python.</li>
     <li>Utilizar estruturas condicionais e de repetição.</li>
@@ -13,6 +12,5 @@
     <li>Escrever testes com Pytest.</li>
     <li>Escrever seus próprios módulos e importá-los em outros códigos.</li>
   </ul>
-</details>
 
 
